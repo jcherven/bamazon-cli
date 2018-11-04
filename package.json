@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-cli",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "bmzc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcherven/bamazon-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcherven/bamazon-cli/issues"
+  },
+  "homepage": "https://github.com/jcherven/bamazon-cli#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
